@@ -1,2 +1,1 @@
-# Machine_Learning_inAction
-for book &lt;Machine Learning in Action>
+Machine Learning in Action(Peter Harrington) 实践源码及学习笔记
